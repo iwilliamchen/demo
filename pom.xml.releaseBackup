@@ -9,7 +9,7 @@
 		<connection>scm:git:https://github.com/iwilliamchen/demo.git</connection>
 		<url>https://github.com/iwilliamchen/demo.git</url>
 		<developerConnection>scm:git:https://github.com/iwilliamchen/demo.git</developerConnection>
-		<tag>demo-0.0.2</tag>
+		<tag>v0.0</tag>
 	</scm>
 	<developers>
 		<developer>
